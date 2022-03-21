@@ -1,5 +1,6 @@
 # Blacket-Hacks
-## Huge thanks to my friend [zastix](https://github.com/ZasticBradyn) for the scripts!
+### A variety of hacks for the game [Blacket](https://blacket.org/)
+### Huge thanks to my friend [zastix](https://github.com/ZasticBradyn) for the scripts!
 # How to use
 ## Method 1
 ### Open the console by pressing `ctrl` + `shift` + `j`
