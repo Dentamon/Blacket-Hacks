@@ -1,5 +1,5 @@
 # Blacket-Hacks
-Huge thanks to my friend [zastix](https://github.com/ZasticBradyn) for the scripts!
+## Huge thanks to my friend [zastix](https://github.com/ZasticBradyn) for the scripts!
 # How to use
 ## Method 1
 ### Open the console by pressing `ctrl` + `shift` + `j`
