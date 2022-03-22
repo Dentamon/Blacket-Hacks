@@ -17,3 +17,6 @@
 ### Type in `javascript:` into the `URL` bar
 ### Paste the script by pressing `ctrl` + `v` after the `javascript:` in the `URL` bar
 ### Click on the Bookmarklet to start the script when you are in Blacket
+# Blacket Public Account
+#### Username:  `BlacketEZ`
+#### Password:  `Blacket`
