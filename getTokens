@@ -1,0 +1,10 @@
+function updateTokens() {
+    $.get(`/worker/user/gettokens.php`, function(data) {
+        var x = Number(data).toLocaleString()
+        document.getElementById("tokensText").innerHTML = `${x}`;
+    });
+}
+setInterval(() => {
+    $.post('/worker/box/openbox.php', 'box=Add Tokens')
+    updateTokens()
+}, 501)
